@@ -1,0 +1,18 @@
+using Experiments;
+using NUnit.Framework;
+
+namespace ExperimentsTests
+{
+	[TestFixture]
+	public class Tests
+	{
+		[Test]
+		public void FooReturnsValue()
+		{
+			var foo = new Foo();
+			var value = foo.Do();
+			Assert.NotNull(value);
+			Assert.AreEqual(@"{""Bar"":1,""Baz"":""value""}", value);
+		}
+	}
+}
