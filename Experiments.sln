@@ -1,4 +1,3 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
@@ -7,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experiments", "Experiments\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperimentsConsole", "ExperimentsConsole\ExperimentsConsole.csproj", "{5F7C44BB-27FD-40B1-A76A-EBE7F88C7E3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperimentsTests", "ExperimentsTests\ExperimentsTests.csproj", "{4510F7AA-20EF-4414-B1FB-FFCE86F3A0EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experiments.Tests", "Experiments.Tests\Experiments.Tests.csproj", "{4510F7AA-20EF-4414-B1FB-FFCE86F3A0EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
