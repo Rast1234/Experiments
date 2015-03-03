@@ -7,8 +7,8 @@
     <ProjectGuid>{4510F7AA-20EF-4414-B1FB-FFCE86F3A0EA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ExperimentsTests</RootNamespace>
-    <AssemblyName>ExperimentsTests</AssemblyName>
+    <RootNamespace>Experiments.Tests</RootNamespace>
+    <AssemblyName>Experiments.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

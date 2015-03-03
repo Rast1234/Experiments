@@ -1,7 +1,6 @@
-using Experiments;
 using NUnit.Framework;
 
-namespace ExperimentsTests
+namespace Experiments.Tests
 {
 	[TestFixture]
 	public class Tests
