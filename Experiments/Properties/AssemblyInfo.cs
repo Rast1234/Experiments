@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Experiments")]
-[assembly: AssemblyDescription("an experimental project to build nuget package with travis-ci and github")]
+[assembly: AssemblyDescription("an experimental project to build nuget package with MyGet and github")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("ACME Inc.")]
 [assembly: AssemblyProduct("Experiments")]

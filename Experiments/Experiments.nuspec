@@ -11,6 +11,6 @@
     <description>$description$</description>
     <releaseNotes>Initial release</releaseNotes>
     <copyright>Copyright 2015</copyright>
-    <tags>Experiments Nuget Travis-CI</tags>
+    <tags>Experiments Nuget MyGet</tags>
   </metadata>
 </package>
