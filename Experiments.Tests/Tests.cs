@@ -13,11 +13,5 @@ namespace Experiments.Tests
 			Assert.NotNull(value);
 			Assert.AreEqual(@"{""Bar"":1,""Baz"":""value""}", value);
 		}
-
-		[Test]
-		public void TestToFail()
-		{
-			Assert.AreEqual(true, false);
-		}
 	}
 }
