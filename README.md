@@ -1,5 +1,5 @@
 # Experiments
 
-Getting started with Travis-CI + C# + NUnit
+Getting started with MyGet + C# + NUnit
 
-[![Build Status](https://travis-ci.org/Rast1234/Experiments.svg?branch=master)](https://travis-ci.org/Rast1234/Experiments)
+https://www.myget.org/BuildSource/Badge/rast-experiments?identifier=512de595-ca55-444d-826c-7ed5bceb7c2e
